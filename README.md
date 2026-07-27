@@ -4,7 +4,7 @@ A modern, responsive blog platform built with React and Tailwind CSS, aggregatin
 
 Designed from a Figma UI kit and brought to life with real-world API data, dynamic routing, and a clean, card-based reading experience.
 
-**🔗 Live Demo:** [blog-verse-roan-one.vercel.app]
+**🔗 Live Demo:** https://blog-verse-roan-one.vercel.app/
 
 ---
 
