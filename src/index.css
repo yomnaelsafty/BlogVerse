@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-work-sans: "Work Sans", sans-serif;
+  --font-source-serif-4: "Source Serif 4", serif;
+}
