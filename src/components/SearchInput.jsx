@@ -1,6 +1,6 @@
 function SearchInput({ value, onChange }) {
   return (
-    <form className="w-[166px] bg-[#F4F4F5] rounded-[5px] pt-2 pr-2 pb-2 pl-4 flex items-center gap-3">
+    <form className="w-full sm:w-[166px] bg-[#F4F4F5] rounded-[5px] pt-2 pr-2 pb-2 pl-4 flex items-center gap-3">
       <input
         type="text"
         placeholder="Search..."
